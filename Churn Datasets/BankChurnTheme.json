@@ -1,0 +1,7 @@
+{
+  "name": "Bank Churn Theme",
+  "dataColors": ["#0A3D62", "#00B5A8", "#6B46C0", "#E63939", "#457B9D", "#F4A261", "#2A9D8F", "#A8DADC"],
+  "background": "#F8FAFC",
+  "foreground": "#1F2A44",
+  "tableAccent": "#00B5A8"
+}
